@@ -1,0 +1,11 @@
+asgiref
+asyncio
+base64io
+django
+djangorestframework
+jupyter_client
+matplotlib
+numpy
+pandas
+jupyter_core
+ipykernel
